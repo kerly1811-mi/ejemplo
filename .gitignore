@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+
+# Variables de entorno
+.env
+
+# Logs
+*.log
+
+# Visual Studio
+.vs/
